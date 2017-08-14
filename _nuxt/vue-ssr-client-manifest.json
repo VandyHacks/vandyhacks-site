@@ -10,27 +10,27 @@
     "img/instagram-white.a7a3a05.svg",
     "img/skyline.b9a11d4.svg",
     "img/vandyhacks-text.cef468a.svg",
-    "0.nuxt.bundle.62892b9795a3e9b66dc5.js",
+    "0.nuxt.bundle.87033ec78e6595066ccb.js",
     "img/bnymellon.dd7ad35.png",
     "vendor.bundle.2113f33bbda44ea22ac8.js",
     "nuxt.bundle.51142f997846f4e20bc2.js",
-    "manifest.80f6181f02a6f064bc29.js",
-    "0.nuxt.bundle.62892b9795a3e9b66dc5.js.map",
+    "manifest.4233f54b286375694f25.js",
+    "0.nuxt.bundle.87033ec78e6595066ccb.js.map",
     "1.nuxt.bundle.ccdbad08d24f1c7ae635.js.map",
     "vendor.bundle.2113f33bbda44ea22ac8.js.map",
     "nuxt.bundle.51142f997846f4e20bc2.js.map",
-    "manifest.80f6181f02a6f064bc29.js.map",
+    "manifest.4233f54b286375694f25.js.map",
     "index.ssr.html",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.80f6181f02a6f064bc29.js",
+    "manifest.4233f54b286375694f25.js",
     "vendor.bundle.2113f33bbda44ea22ac8.js",
     "nuxt.bundle.51142f997846f4e20bc2.js"
   ],
   "async": [
     "1.nuxt.bundle.ccdbad08d24f1c7ae635.js",
-    "0.nuxt.bundle.62892b9795a3e9b66dc5.js"
+    "0.nuxt.bundle.87033ec78e6595066ccb.js"
   ],
   "modules": {
     "20476215": [
