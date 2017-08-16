@@ -1,7 +1,7 @@
 {
   "publicPath": "/_nuxt/",
   "all": [
-    "1.nuxt.bundle.ccdbad08d24f1c7ae635.js",
+    "1.nuxt.bundle.69db5b90d54db8ecb33b.js",
     "img/microstrategy.51460fc.png",
     "img/centenecorp.aecd1e8.png",
     "img/redventures.c809b5d.png",
@@ -10,27 +10,27 @@
     "img/instagram-white.a7a3a05.svg",
     "img/skyline.b9a11d4.svg",
     "img/vandyhacks-text.cef468a.svg",
-    "0.nuxt.bundle.187c349dc93eaae07d92.js",
+    "0.nuxt.bundle.25a2433e1f8fa6e70ad9.js",
     "img/bnymellon.dd7ad35.png",
-    "vendor.bundle.2113f33bbda44ea22ac8.js",
-    "nuxt.bundle.51142f997846f4e20bc2.js",
-    "manifest.649047f602dc77f80271.js",
-    "0.nuxt.bundle.187c349dc93eaae07d92.js.map",
-    "1.nuxt.bundle.ccdbad08d24f1c7ae635.js.map",
-    "vendor.bundle.2113f33bbda44ea22ac8.js.map",
-    "nuxt.bundle.51142f997846f4e20bc2.js.map",
-    "manifest.649047f602dc77f80271.js.map",
+    "vendor.bundle.23835c07b4e2661f4d02.js",
+    "nuxt.bundle.928a9812b545305b0e27.js",
+    "manifest.0bbca49f6533f8149118.js",
+    "0.nuxt.bundle.25a2433e1f8fa6e70ad9.js.map",
+    "1.nuxt.bundle.69db5b90d54db8ecb33b.js.map",
+    "vendor.bundle.23835c07b4e2661f4d02.js.map",
+    "nuxt.bundle.928a9812b545305b0e27.js.map",
+    "manifest.0bbca49f6533f8149118.js.map",
     "index.ssr.html",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.649047f602dc77f80271.js",
-    "vendor.bundle.2113f33bbda44ea22ac8.js",
-    "nuxt.bundle.51142f997846f4e20bc2.js"
+    "manifest.0bbca49f6533f8149118.js",
+    "vendor.bundle.23835c07b4e2661f4d02.js",
+    "nuxt.bundle.928a9812b545305b0e27.js"
   ],
   "async": [
-    "1.nuxt.bundle.ccdbad08d24f1c7ae635.js",
-    "0.nuxt.bundle.187c349dc93eaae07d92.js"
+    "1.nuxt.bundle.69db5b90d54db8ecb33b.js",
+    "0.nuxt.bundle.25a2433e1f8fa6e70ad9.js"
   ],
   "modules": {
     "20476215": [
@@ -109,10 +109,6 @@
       11,
       16
     ],
-    "c7c62dfc": [
-      11,
-      16
-    ],
     "22800eb4": [
       11,
       16
@@ -138,6 +134,10 @@
       16
     ],
     "1d6fcbfa": [
+      11,
+      16
+    ],
+    "c7c62dfc": [
       11,
       16
     ],
@@ -200,6 +200,10 @@
     "39d2295e": [
       11,
       16
+    ],
+    "52e4034d": [
+      12,
+      17
     ],
     "1ac4da20": [
       11,
@@ -294,10 +298,6 @@
       17
     ],
     "28a01bb9": [
-      12,
-      17
-    ],
-    "52e4034d": [
       12,
       17
     ],
@@ -517,19 +517,19 @@
       12,
       17
     ],
-    "f8204314": [
+    "5d75a9e6": [
       12,
       17
     ],
-    "ed071ba4": [
+    "7d4b0e55": [
       12,
       17
     ],
-    "0c152523": [
+    "669f665a": [
       12,
       17
     ],
-    "5c511ba2": [
+    "d9c15094": [
       12,
       17
     ],
@@ -537,9 +537,17 @@
       12,
       17
     ],
-    "3242feb0": [
+    "01a3b71f": [
       12,
       17
+    ],
+    "017ffefa": [
+      11,
+      16
+    ],
+    "3cc8cea8": [
+      11,
+      16
     ],
     "1d8ee3ec": [
       12,
@@ -549,7 +557,7 @@
       12,
       17
     ],
-    "a86835c0": [
+    "698dd617": [
       12,
       17
     ],
@@ -564,14 +572,6 @@
     "7b17f951": [
       12,
       17
-    ],
-    "017ffefa": [
-      11,
-      16
-    ],
-    "3cc8cea8": [
-      11,
-      16
     ],
     "5578cc1a": [
       9,
@@ -616,7 +616,7 @@
       7,
       8
     ],
-    "b31c2cf8": [
+    "09090e8a": [
       9,
       14,
       1,
@@ -720,7 +720,7 @@
       7,
       8
     ],
-    "3a4d47a5": [
+    "015be64e": [
       9,
       14,
       1,
@@ -785,7 +785,7 @@
       7,
       8
     ],
-    "57879c09": [
+    "0fcfd0f2": [
       9,
       14,
       1,
@@ -863,7 +863,7 @@
       7,
       8
     ],
-    "7cc46e23": [
+    "43d30ccc": [
       9,
       14,
       1,
@@ -1058,7 +1058,7 @@
       7,
       8
     ],
-    "42a211ea": [
+    "fceffdfc": [
       9,
       14,
       1,
