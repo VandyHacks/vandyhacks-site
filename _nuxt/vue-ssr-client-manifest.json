@@ -1,14 +1,14 @@
 {
   "publicPath": "/_nuxt/",
   "all": [
-    "0.nuxt.bundle.4a35dee51c2620277fc2.js",
+    "0.nuxt.bundle.518df614f3de5d2064cb.js",
     "img/mlh-white.9207c5e.svg",
     "img/bnymellon.dd7ad35.png",
     "img/centenecorp.aecd1e8.png",
     "img/redventures.c809b5d.png",
     "img/chickfila.deb2be9.svg",
     "img/capital-one.3714e7f.svg",
-    "img/morecoming.cad5cf4.svg",
+    "img/morecoming.0bae3a5.svg",
     "img/instagram-white.a7a3a05.svg",
     "img/skyline.b9a11d4.svg",
     "img/vandyhacks-text.cef468a.svg",
@@ -16,22 +16,22 @@
     "1.nuxt.bundle.8ad9bc56c88ef9da2250.js",
     "vendor.bundle.23835c07b4e2661f4d02.js",
     "nuxt.bundle.928a9812b545305b0e27.js",
-    "manifest.c84704fb23f62ab22bd4.js",
-    "0.nuxt.bundle.4a35dee51c2620277fc2.js.map",
+    "manifest.6e88f2008b3c460c6f52.js",
+    "0.nuxt.bundle.518df614f3de5d2064cb.js.map",
     "1.nuxt.bundle.8ad9bc56c88ef9da2250.js.map",
     "vendor.bundle.23835c07b4e2661f4d02.js.map",
     "nuxt.bundle.928a9812b545305b0e27.js.map",
-    "manifest.c84704fb23f62ab22bd4.js.map",
+    "manifest.6e88f2008b3c460c6f52.js.map",
     "index.ssr.html",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.c84704fb23f62ab22bd4.js",
+    "manifest.6e88f2008b3c460c6f52.js",
     "vendor.bundle.23835c07b4e2661f4d02.js",
     "nuxt.bundle.928a9812b545305b0e27.js"
   ],
   "async": [
-    "0.nuxt.bundle.4a35dee51c2620277fc2.js",
+    "0.nuxt.bundle.518df614f3de5d2064cb.js",
     "1.nuxt.bundle.8ad9bc56c88ef9da2250.js"
   ],
   "modules": {
